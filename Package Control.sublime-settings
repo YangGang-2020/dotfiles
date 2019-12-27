@@ -8,13 +8,16 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"BracketHighlighter",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"HTMLBeautify",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop"
 	]
 }
